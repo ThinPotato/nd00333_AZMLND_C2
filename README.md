@@ -19,3 +19,4 @@ This project could be improved by allowing autoML to run for longer ensuring a b
 Refer to screenshot folder in repo
 
 ## Video demo
+https://imgur.com/G2giBu1
